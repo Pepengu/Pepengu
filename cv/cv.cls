@@ -11,7 +11,7 @@
 \RequirePackage{ragged2e}
 \RequirePackage{soul}
 \RequirePackage{calc}
-\RequirePackage[usenames,dvipsnames,svgnames,table]{xcolor}
+\RequirePackage[dvipsnames,svgnames,table]{xcolor}
 
 \RequirePackage{hyperref}
 \hypersetup{colorlinks, breaklinks, urlcolor=Maroon, linkcolor=Maroon}
